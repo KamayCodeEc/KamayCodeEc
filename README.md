@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Somos KamayCode Ec 👋
+Desarrollamos y diseñado de acuerdo a las necesidades de cada Empresa
 <!--
 **KamayCodeEc/KamayCodeEc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
